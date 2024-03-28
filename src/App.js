@@ -1,4 +1,3 @@
-import FeedbackItem from "./component/FeedbackItem";
 import Header from "./component/Header";
 import FeedbackList from "./component/FeedbackList";
 import FeedbackStacts from "./component/FeedbackStacts";
